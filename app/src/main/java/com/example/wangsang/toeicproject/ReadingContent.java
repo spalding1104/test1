@@ -86,7 +86,7 @@ public class ReadingContent extends AppCompatActivity {
             }
         });
 
-        //set event on click, button 4
+        //set event on click, button 4 changed by anh quoc
         mButtonChoice4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
